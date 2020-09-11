@@ -1,5 +1,5 @@
 #pragma once
-
+#include "ofMain.h"
 #include "ofxMixedFontUtil.hpp"
 
 struct FT_FaceRec_;
@@ -10,7 +10,7 @@ template<typename T> class ofPixels_;
 typedef ofPixels_<unsigned char> ofPixels;
 template<typename T> class ofColor_;
 typedef ofColor_<unsigned char> ofColor;
-class ofMesh;
+//class ofMesh;
 
 class ofxFT2Font : public ofxMixedFontUtil::ofxBaseFont
 {

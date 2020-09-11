@@ -1,2 +1,18 @@
 
 .DS_Store
+ofxMixedFont-example/Project.xcconfig
+ofxMixedFont-example/openFrameworks-Info.plist
+ofxMixedFont-example/ofxMixedFont-example.xcodeproj/xcshareddata/xcschemes/ofxMixedFont-example Release.xcscheme
+ofxMixedFont-example/ofxMixedFont-example.xcodeproj/xcshareddata/xcschemes/ofxMixedFont-example Debug.xcscheme
+ofxMixedFont-example/ofxMixedFont-example.xcodeproj/project.xcworkspace/xcuserdata/manumolina.xcuserdatad/UserInterfaceState.xcuserstate
+ofxMixedFont-example/ofxMixedFont-example.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+ofxMixedFont-example/ofxMixedFont-example.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+ofxMixedFont-example/ofxMixedFont-example.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+ofxMixedFont-example/ofxMixedFont-example.xcodeproj/project.pbxproj
+ofxMixedFont-example/Makefile
+ofxMixedFont-example/config.make
+ofxMixedFont-example/bin/ofxMixedFont-exampleDebug.app/Contents/Frameworks/libfmodex.dylib
+ofxMixedFont-example/bin/ofxMixedFont-exampleDebug.app/Contents/Info.plist
+ofxMixedFont-example/bin/ofxMixedFont-exampleDebug.app/Contents/MacOS/ofxMixedFont-exampleDebug
+ofxMixedFont-example/bin/ofxMixedFont-exampleDebug.app/Contents/PkgInfo
+ofxMixedFont-example/bin/ofxMixedFont-exampleDebug.app/Contents/Resources/icon-debug.icns
